@@ -1,2 +1,1 @@
-#Shopping Bot
-Bot created in python3 using Selenium and ChromeDriver to purchase limited supply products online. Notably able to check out of sites in under 30 seconds of product becoming available.
+To use with proper credentials, go to config.py and update dictionary with correct values. On running this code in a python environment, be warned that if the private information entered is correct and the product is available, this code will buy it for you. 
